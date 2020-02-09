@@ -1,0 +1,3 @@
+"C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath="C:\Users\Shreshto\Desktop\R&D\APIFT\data/mydb" --port 3000
+
+"C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
